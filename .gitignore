@@ -9,3 +9,7 @@ ignore_file.txt
 
 #○×.ignoreというファイル
 *.ignore
+
+#空ディレクトリ用
+/empty/*
+!.gitkeep
