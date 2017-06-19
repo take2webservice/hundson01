@@ -1,0 +1,11 @@
+#全てのignore_dir
+ignore_dir/
+
+#全てのignore_file.txt
+ignore_file.txt
+
+#ルートディレクトリ直下のignore_file2.txt
+/ignore_file2.txt
+
+#○×.ignoreというファイル
+*.ignore
